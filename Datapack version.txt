@@ -1,0 +1,3 @@
+https://minecraft.fandom.com/wiki/Pack_format
+
+(ATENTION: catégorie "datapack" et non "resource packs")
